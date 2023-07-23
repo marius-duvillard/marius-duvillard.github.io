@@ -22,9 +22,9 @@ title: Marius Duvillard's Website
 email: marius.duvillard@cea.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Personal and professional blog of Marius Duvillard, PhD candidate at CEA Cadarache and Polytechnique France.
-domain: marius-duvillard.github.io
+domain: mardvd.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://marius-duvillard.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mardvd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  mardvd
 
