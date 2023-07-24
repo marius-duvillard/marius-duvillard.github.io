@@ -5,3 +5,5 @@
 layout: home
 background: '/assets/images/plumereau.jpeg'
 ---
+
+![Marius Duvillard](/assets/images/marius/marius_photo.png)

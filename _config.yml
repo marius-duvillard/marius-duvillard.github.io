@@ -64,11 +64,12 @@ baseurl:            ""
 url:                "https://marius-duvillard.github.io"
 
 # Social Profiles
-github_username:    marius-duvillard
-linkedin_username:
+github_username:          marius-duvillard
+linkedin_username:        marius-duvillard
+researchgate_username :   marius-duvillard
 
 # Add your google-analytics ID here to activate google analytics
-# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   G-6P3CFCXP5F # out your google-analytics code
 
 # Build settings
 ### Build settings
