@@ -2,6 +2,7 @@
 layout: page
 title: Contact me
 background: '/assets/images/marius/cat_marius.jpg'
+form: true
 ---
 
 <form name="sentMessage" id="contactForm" novalidate>
