@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MyWork
+title: My Work
 background: '/assets/images/blog/vortex.gif'
 ---
 
