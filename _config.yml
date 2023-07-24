@@ -57,7 +57,7 @@ remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 #   - vendor/ruby/
 
 title:              Marius Duvillard's Website
-email:              marius.duvillard@cea.fr
+email:              marius.duvillard@gmail.com
 description:        Personal and professional blog of Marius Duvillard, PhD candidate at CEA Cadarache and Polytechnique France.
 author:             Marius Duvillard
 baseurl:            ""
