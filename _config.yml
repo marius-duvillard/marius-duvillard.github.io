@@ -34,8 +34,6 @@ github_username:  mardvd
 plugins:
   - jekyll-feed
 
-github:
-  token: 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
 
 # Exclude from processing.
 # The following items will not be processed, by default.
