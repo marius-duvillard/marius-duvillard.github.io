@@ -1,7 +1,6 @@
 ---
 permalink: /404.html
 layout: default
-background-image: /assets/images/404_cat.png
 ---
 
 <style type="text/css" media="screen">
@@ -18,6 +17,23 @@ background-image: /assets/images/404_cat.png
     letter-spacing: -1px;
   }
 </style>
+
+<style>
+  /* CSS styles for the centered image */
+  .centered-image {
+    display: block;
+    /* Ensures the image is treated as a block-level element */
+    margin: 0 auto;
+    margin-top: 100px;
+    /* Centers the image horizontally within its container */
+    max-width: 300%;
+    /* Limits the image width to the container width */
+    max-height: 300%;
+    /* Limits the image height to the container height */
+  }
+</style>
+
+<img class="centered-image" src="assets/images/404_cat.png" alt="Cat without cat">
 
 <div class="container">
   <h1>404</h1>
