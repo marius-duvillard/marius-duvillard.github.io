@@ -60,7 +60,7 @@ title:              Marius Duvillard's Website
 email:              marius.duvillard@gmail.com
 description:        Personal and professional blog of Marius Duvillard, PhD candidate at CEA Cadarache and Polytechnique France.
 author:             Marius Duvillard
-baseurl:            ""
+baseurl:            "site"
 url:                "https://marius-duvillard.github.io"
 
 # Social Profiles
