@@ -61,10 +61,10 @@ email:              marius.duvillard@gmail.com
 description:        Personal and professional blog of Marius Duvillard, PhD candidate at CEA Cadarache and Polytechnique France.
 author:             Marius Duvillard
 baseurl:            ""
-url:                "https://mardvd.github.io"
+url:                "https://marius-duvillard.github.io"
 
 # Social Profiles
-github_username:    mardvd
+github_username:    marius-duvillard
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
