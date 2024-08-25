@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-👨‍🎓 PhD in Applied Mathematics | 🎓 École Polytechnique
+👨‍🎓 PhD in Applied Mathematics | 🎓 École Polytechnique | ⚡CEA
 
-💡 Currently working with CEA at Cadarache on cutting-edge research for nuclear fuel manufacturing.
+Currently working with CEA at Cadarache on cutting-edge research for nuclear fuel manufacturing.
 I'm part of the the X/Inria project-team [PLATON](https://team.inria.fr/platon/).
 
 ## 🔬 Field of Interest

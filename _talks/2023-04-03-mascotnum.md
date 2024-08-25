@@ -11,4 +11,4 @@ slidesurl: "files/duvillard_poster.pdf"
 
 Poster presentation of PhD work in front of the community of Uncertainty Quantification.
 
-[More info](https://mascotnum2023.sciencesconf.org/data/mascotnum2023_poster_abstracts_I.pdf)
+[More info](https://mascotnum2023.sciencesconf.org/data/mascotnum2023_poster_abstracts_I.pdf).
