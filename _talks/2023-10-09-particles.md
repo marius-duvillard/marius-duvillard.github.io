@@ -9,7 +9,7 @@ location: "Milan, Italy"
 slidesurl: "/files/particles2023_duvillard.pdf
 ---
 
-**Presentation of adaptations of the EnKF algorithm for particle-based simulation by intensity correction.**  
+Presentation of adaptations of the EnKF algorithm for particle-based simulation by intensity correction.
 
 Data assimilation methods refer to a sequential estimation of the state of a system based on the incorporation of online observations. The complete way determines the state’s posterior distribution given the observations until now.
 In the case of linear Gaussian models and observations, one can update the mean and covariance of the system’s state analytically using the Kalman Filter formula [^1].
@@ -22,8 +22,11 @@ We propose and test different filters involving hybrid particle-mesh or purely L
 ## REFERENCES
 
 [^1]: R.E. Kalman. «A New Approach to Linear Filtering and Prediction Problems.» Journal of Basic Engineering 82, no 1 (1960): 35 45.
-[^2]: G. Burgers, P.J. van Leeuwen, et G. Evensen. «Analysis Scheme in the Ensemble Kalman Filter.» Monthly Weather Review 126, no 6 (1998): 1719 24. 
-[^3]: M. Bocquet. «Introduction to the Principles and Methods of Data Assimilation in the Geosciences,» (2014), 89.
-[^4]: A. Siripatana, L. Giraldi, O. P. Le Maître, O. M. Knio, et I. Hoteit. «Combining Ensemble Kalman Filter and Multiresolution Analysis for Efficient Assimilation into Adaptive Mesh Models.» Computational Geosciences 23, no 6 (2019): 1259 76.
-[^5]: J. Du, J. Zhu, F. Fang, C. C. Pain, et I. M. Navon. «Ensemble Data Assimilation Applied to an Adaptive Mesh Ocean Model.» International Journal for Numerical Methods in Fluids 82, no 12 (2016): 997 1009.
 
+[^2]: G. Burgers, P.J. van Leeuwen, et G. Evensen. «Analysis Scheme in the Ensemble Kalman Filter.» Monthly Weather Review 126, no 6 (1998): 1719 24.
+
+[^3]: M. Bocquet. «Introduction to the Principles and Methods of Data Assimilation in the Geosciences,» (2014), 89.
+
+[^4]: A. Siripatana, L. Giraldi, O. P. Le Maître, O. M. Knio, et I. Hoteit. «Combining Ensemble Kalman Filter and Multiresolution Analysis for Efficient Assimilation into Adaptive Mesh Models.» Computational Geosciences 23, no 6 (2019): 1259 76.
+
+[^5]: J. Du, J. Zhu, F. Fang, C. C. Pain, et I. M. Navon. «Ensemble Data Assimilation Applied to an Adaptive Mesh Ocean Model.» International Journal for Numerical Methods in Fluids 82, no 12 (2016): 997 1009.
