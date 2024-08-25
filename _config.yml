@@ -24,7 +24,7 @@ author:
   avatar           : "marius-duvillard.png"
   name             : "Marius Duvillard"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD. Candidate in Applied Mathematics in uncertainty quantification in simulation. Engineering Background.
   location         : "Palaiseau, France"
   employer         : "CEA / Ecole Polytechnique"
   uri              : # URL
@@ -51,12 +51,12 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : Marsyas
+  goodreads        : "169212066-marsyas"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "marius-duvillard/"
+  linkedin         : "marius-duvillard"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
