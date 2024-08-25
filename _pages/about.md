@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🌍 Welcome to Marius Duvillard's Personal Website!"
+title: "Welcome to My Personal Website! 🌟"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,9 +12,9 @@ redirect_from:
 
 ## 🔬 Field of Interest
 
-- *Data Assimilation*: Advanced techniques for integrating data into simulations.
-- *Solid Mechanics*: Innovative approaches to understanding and simulating solid mechanics.
-- *Machine Learning & Data-Driven Methods*: Applying ML and data-driven techniques to mechanical modeling.
+- **Data Assimilation**: Advanced techniques for integrating data into simulations.
+- **Solid Mechanics**: Innovative approaches to understanding and simulating solid mechanics.
+- **Machine Learning & Data-Driven Methods**: Applying ML and data-driven techniques to mechanical modeling.
 
 
 📚 [**Publications and Research**](publications/): Discover my contributions to numerical simulation, machine learning, and data assimilation.
@@ -23,3 +23,4 @@ redirect_from:
 
 🎵 **Hobbies**: Ancient and traditional music 🎼, rowing 🚣‍♂️, hiking 🌄 and literature 📖.
 
+ feel free to browse through [**my CV**](cv/) 📄 I'm open to new opportunities and collaborations, so don't hesitate to get in touch! 🤝
