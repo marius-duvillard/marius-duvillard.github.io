@@ -15,10 +15,10 @@ Education
 _Palaiseau, France_  
 Ph.D. in Applied Mathematics  
 01/10/2021 – Present  
-[More info](https://cmap.ip-paris.fr/en/research/analysis/platon)
+Part of the X/Inria project-team [PLATON](https://team.inria.fr/platon/)
 
 - **Ecole Centrale de Nantes**  
-_Nantes, France_  
+ _Nantes, France_  
 Engineering Student
 01/09/2018 – 31/08/2021
   - [Data analysis and applications in signal and image processing](https://www.ec-nantes.fr/engineering-programme-diplome-dingenieur/course-specialisations-yrs-23/data-analysis-and-applications-in-signal-and-image-processing)
