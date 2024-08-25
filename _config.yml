@@ -14,7 +14,7 @@ name                     : &name "Marius Duvillard"
 description              : &description "I am a PhD candidate in Applied Mathematics with a strong interest in machine learning, probabilistic methods, and their application in simulation. I am currently seeking a full-time position in these fields."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-# repository               : "marius-duvillard.github.io"
+repository               : "marius-duvillard/marius-duvillard.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
