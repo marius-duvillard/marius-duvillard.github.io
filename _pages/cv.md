@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-- **Ecole Polytechnique**
+- **Ecole Polytechnique**  
 _Palaiseau, France_  
 Ph.D. in Applied Mathematics  
 01/10/2021 – Present  
@@ -23,7 +23,6 @@ Engineering Student
 01/09/2018 – 31/08/2021
   - [Data analysis and applications in signal and image processing](https://www.ec-nantes.fr/engineering-programme-diplome-dingenieur/course-specialisations-yrs-23/data-analysis-and-applications-in-signal-and-image-processing)
   - [Advanced Modelling and Analysis of Structures](https://www.ec-nantes.fr/engineering-programme-diplome-dingenieur/course-specialisations-yrs-23/advanced-modelling-and-analysis-of-structures?l=1)
-[More info](https://www.ec-nantes.fr/english-version?l=1)
 
 - **Lycée Descartes**  
 _Tours, France_  
