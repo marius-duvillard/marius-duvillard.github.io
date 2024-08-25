@@ -80,6 +80,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  draft:
+    title: 'Pre-Print'
 
 # Site Settings
 teaser                   :  "500x300.png"
