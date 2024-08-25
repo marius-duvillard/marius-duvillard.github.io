@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV [pdf](/files/resume_duvillard.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
