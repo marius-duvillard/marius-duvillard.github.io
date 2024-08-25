@@ -12,7 +12,7 @@ redirect_from:
 Currently working with CEA at Cadarache on cutting-edge research for nuclear fuel manufacturing.
 I'm part of the X/Inria project-team [PLATON](https://team.inria.fr/platon/).
 
-## 🔬 Field of Interest
+## 🔬 Fields of Interest
 
 - **Data Assimilation**: Advanced techniques for integrating data into simulations.
 - **Solid Mechanics**: Innovative approaches to understanding and simulating solid mechanics.
