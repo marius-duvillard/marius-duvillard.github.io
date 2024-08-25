@@ -2,7 +2,7 @@
 title: "MascotNum 2023 -  Ensemble-based Data Assimilation for Meshless Simulations"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-04-03-mascotnum-2023
+permalink: /talks/2023-04-03-mascotnum
 venue: "MascotNum 2023"
 date: 2023-04-03
 location: "Le Croisic, France"
