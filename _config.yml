@@ -14,17 +14,17 @@ name                     : &name "Marius Duvillard"
 description              : &description "I am a PhD candidate in Applied Mathematics with a strong interest in machine learning, probabilistic methods, and their application in simulation. I am currently seeking a full-time position in these fields."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+# repository               : "marius-duvillard.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "marius-duvillard.png"
   name             : "Marius Duvillard"
   pronouns         : # example: "she/her"  
-  bio              : "PhD. Candidate in Applied Mathematics in uncertainty quantification in simulation. Engineering Background.
+  bio              : "PhD. Candidate in Applied Mathematics in uncertainty quantification in simulation. Engineering Background."
   location         : "Palaiseau, France"
   employer         : "CEA / Ecole Polytechnique"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : "169212066-marsyas"
+  goodreads        : "marsyas"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
