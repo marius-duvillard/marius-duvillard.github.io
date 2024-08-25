@@ -1,12 +1,12 @@
 ---
-title: "PARTICLES 2023 - Ensemble Kalman Filter Adapted to Particle Simulations"
+title: "PARTICLES 2023 - Ensemble Kalman Filter Adapted to Particle Simulations."
 collection: talks
 type: "Talk"
 permalink: /talks/2023-10-09-particles
 venue: "PARTICLES 2023"
 date: 2023-10-09
 location: "Milan, Italy"
-slidesurl: "/files/particles2023_duvillard.pdf
+slidesurl: "/files/particles2023_duvillard.pdf"
 ---
 
 Presentation of adaptations of the EnKF algorithm for particle-based simulation by intensity correction.
