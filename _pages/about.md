@@ -19,8 +19,9 @@ redirect_from:
 *Machine Learning & Data-Driven Methods*: Applying ML and data-driven techniques to mechanical modeling.
 
 
-📚 **Publications and Research**: Discover my contributions to numerical simulation, machine learning, and data assimilation.
+📚 [**Publications and Research**]("./talks/): Discover my contributions to numerical simulation, machine learning, and data assimilation.
 
 🎤 **Conferences**: Check out my presentations on simulation methods and emerging technologies.
 
 🎵 **Hobbies**: Ancient and traditional music 🎼, rowing 🚣‍♂️, hiking 🌄 and literature 📖.
+

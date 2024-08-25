@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "fr-FR"
+locale                   : "en-En"
 title                    : "Marius Duvillard's Website"
 title_separator          : "-"
 name                     : &name "Marius Duvillard"
