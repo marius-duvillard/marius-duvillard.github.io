@@ -12,7 +12,7 @@ title                    : "Marius Duvillard's Website"
 title_separator          : "-"
 name                     : &name "Marius Duvillard"
 description              : &description "I am a PhD candidate in Applied Mathematics with a strong interest in machine learning, probabilistic methods, and their application in simulation. I am currently seeking a full-time position in these fields."
-url                      : https://marius.duvillard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://marius-duvillard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marius-duvillard/marius-duvillard.github.io"
 
