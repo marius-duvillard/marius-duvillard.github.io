@@ -6,7 +6,7 @@ permalink: /talks/2023-04-03-mascotnum
 venue: "MascotNum 2023"
 date: 2023-04-03
 location: "Le Croisic, France"
-slidesurl: "files/duvillard_poster.pdf"
+slidesurl: "/files/duvillard_poster.pdf"
 ---
 
 Poster presentation of PhD work in front of the community of Uncertainty Quantification.
