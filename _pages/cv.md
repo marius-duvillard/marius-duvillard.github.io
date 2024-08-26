@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Pdf Version](/files/resume_duvillard.pdf)
+[Pdf Version](/files/resume_duvillard.pdf){: .btn--research}
 
 Education
 ======
