@@ -16,7 +16,7 @@ I'm part of the X/Inria project-team [PLATON](https://team.inria.fr/platon/).
 
 - **Data Assimilation**: Advanced techniques for integrating data into simulations.
 - **Solid Mechanics**: Innovative approaches to understanding and simulating solid mechanics.
-- **Machine Learning & Data-Driven Methods**: Applying ML and data-driven techniques to mechanical modeling.
+- **Machine Learning & Data-Driven Methods**: Applying ML and data-driven techniques to mechanical modeling in the paradigm of SciML.
 
 
 📚 [**Publications and Research**](publications/): Discover my contributions to numerical simulation, machine learning, and data assimilation.
