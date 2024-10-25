@@ -12,6 +12,13 @@ redirect_from:
 Currently working with CEA at Cadarache on cutting-edge research for nuclear fuel manufacturing.
 I'm part of the X/Inria project-team [PLATON](https://team.inria.fr/platon/).
 
+<div>
+  <p>Valeur du compteur : <span id="counter">0</span></p>
+  <button onclick="incrementCounter()">Incrémenter</button>
+  <button onclick="decrementCounter()">Décrémenter</button>
+  <button onclick="resetCounter()">Remettre à zéro</button>
+</div>
+
 ## 🔬 Fields of Interest
 
 - **Data Assimilation & UQ**: Advanced techniques for integrating data into simulations and Uncertainty Quantification methods.
@@ -27,3 +34,23 @@ I'm part of the X/Inria project-team [PLATON](https://team.inria.fr/platon/).
 🎵 **Hobbies**: Ancient and traditional music 🎼, rowing 🚣‍♂️, hiking 🌄 and literature 📖.
 
 feel free to browse through [**my CV**](cv/) 📄 I'm open to new opportunities and collaborations, so don't hesitate to get in touch! 🤝
+
+
+<script>
+  let count = 0;
+
+  function incrementCounter() {
+    count++;
+    document.getElementById("counter").textContent = count;
+  }
+
+  function decrementCounter() {
+    count--;
+    document.getElementById("counter").textContent = count;
+  }
+
+  function resetCounter() {
+    count = 0;
+    document.getElementById("counter").textContent = count;
+  }
+</script>
