@@ -12,12 +12,7 @@ redirect_from:
 Currently working with CEA at Cadarache on cutting-edge research for nuclear fuel manufacturing.
 I'm part of the X/Inria project-team [PLATON](https://team.inria.fr/platon/).
 
-<div>
-  <p>Valeur du compteur : <span id="counter">0</span></p>
-  <button onclick="incrementCounter()">Incrémenter</button>
-  <button onclick="decrementCounter()">Décrémenter</button>
-  <button onclick="resetCounter()">Remettre à zéro</button>
-</div>
+<div id="countdown" class="countdown" data-role="countdown" data-stoptimer="2025-01-16 00:00"></div>
 
 ## 🔬 Fields of Interest
 
@@ -36,21 +31,27 @@ I'm part of the X/Inria project-team [PLATON](https://team.inria.fr/platon/).
 feel free to browse through [**my CV**](cv/) 📄 I'm open to new opportunities and collaborations, so don't hesitate to get in touch! 🤝
 
 
+<!-- jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<!-- Plugin metro-countdown.js -->
+<script src="{{ '/assets/js/metro-countdown.js' | relative_url }}"></script>
+
 <script>
-  let count = 0;
-
-  function incrementCounter() {
-    count++;
-    document.getElementById("counter").textContent = count;
-  }
-
-  function decrementCounter() {
-    count--;
-    document.getElementById("counter").textContent = count;
-  }
-
-  function resetCounter() {
-    count = 0;
-    document.getElementById("counter").textContent = count;
-  }
+  $(document).ready(function() {
+    $("#countdown").countdown({
+      style: {
+        background: "bg-blue", // Classe pour l'arrière-plan du décompte
+        foreground: "fg-white", // Classe pour le texte
+        divider: "fg-red"       // Classe pour le séparateur
+      },
+      blink: true, // Activer le clignotement du séparateur
+      stoptimer: "2025-01-01 00:00", // Date de fin du décompte
+      ontick: function(d, h, m, s) {
+        console.log(`Temps restant : ${d}j ${h}h ${m}m ${s}s`);
+      },
+      onstop: function() {
+        alert("Temps écoulé !");
+      }
+    });
+  });
 </script>
