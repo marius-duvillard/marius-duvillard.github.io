@@ -78,19 +78,19 @@ Projects
 
 - **Assessment of a Direct Data-Driven Approach for Nonlinear Elasticity**  
 _Centrale Nantes_  
-10/2020 – 06/2021  
+  10/2020 – 06/2021  
   - Implement data-driven identification and resolution methods in mechanics,
   - Application to nonlinear elastic behaviors and three-dimensional structures,
   - Participation in weekly meetings with a research group focused on this theme".
 
 - **Analysis and Prediction of Indentation Curves of Heterogeneous Materials**
 
-01/2021 - 06/2021
+  01/2021 - 06/2021
   - Development of an adaptive sampling method using non-parametric methods
 
 - **The Discontinuous Galerkin Scheme in Space for Elastoplastic Solids**
 
-01/2020 - 06/2020
+  01/2020 - 06/2020
   - Implement the discontinuous Galerkin numerical method,
   - Integration with the elastoplastic behavior of solids,
   - Involved in the development of an academic research code.
