@@ -58,9 +58,10 @@ Skills
 ======
 
 - **Machine Learning:** 
-  - Pytorch
-  - Scikit-learn
-  - Keras
+  - +++ Pytorch
+  - +++ Scikit-learn
+  - ++ Keras/Tensorflow
+  - + Jax
 - **Scientific Programming:**
   -  Python (Pandas, Numpy, Scipy, Plotly, etc.)
   -  C++
@@ -83,10 +84,12 @@ _Centrale Nantes_
   - Participation in weekly meetings with a research group focused on this theme".
 
 - **Analysis and Prediction of Indentation Curves of Heterogeneous Materials**
+
 01/2021 - 06/2021
   - Development of an adaptive sampling method using non-parametric methods
 
 - **The Discontinuous Galerkin Scheme in Space for Elastoplastic Solids**
+
 01/2020 - 06/2020
   - Implement the discontinuous Galerkin numerical method,
   - Integration with the elastoplastic behavior of solids,
