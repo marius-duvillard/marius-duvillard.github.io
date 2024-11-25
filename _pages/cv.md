@@ -42,7 +42,7 @@ _CEA, Cadarache, France_
 
 - **Internship - Development of neural network models for nonlinear elastic and elastoplastic laws**  
 _CEA, Cadarache, France_  
-04/2021 – 04/2021  
+04/2021 – 10/2021  
 
 - **Internship - Thermomechanical modelisation**  
 _Framatome, Paris la Défense, France_  
