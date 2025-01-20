@@ -17,7 +17,7 @@ Education
 - **Ecole Polytechnique**  
 _Palaiseau, France_  
 Ph.D. in Applied Mathematics  
-01/10/2021 – Present  
+01/10/2021 – 31/12/2024 
 Part of the X/Inria project-team [PLATON](https://team.inria.fr/platon/)
 
 - **Ecole Centrale de Nantes**  
@@ -38,7 +38,7 @@ Work experience
 
 - **Ph.D. Student - Data assimilation for Lagrangian simulation**  
 _CEA, Cadarache, France_  
-01/10/2021 – Present  
+01/10/2021 – 31/12/2024 
 
 - **Internship - Development of neural network models for nonlinear elastic and elastoplastic laws**  
 _CEA, Cadarache, France_  
