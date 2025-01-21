@@ -16,7 +16,7 @@ Education
 
 - **Ecole Polytechnique**  
 _Palaiseau, France_  
-Ph.D. in Applied Mathematics  
+PhD in Applied Mathematics  
 01/10/2021 – 31/12/2024 
 Part of the X/Inria project-team [PLATON](https://team.inria.fr/platon/)
 
@@ -36,7 +36,7 @@ Preparatory Classes for Engineering Schools
 Work experience
 ======
 
-- **Ph.D. Student - Data assimilation for Lagrangian simulation**  
+- **PhD Student - Data assimilation for Lagrangian simulation**  
 _CEA, Cadarache, France_  
 01/10/2021 – 31/12/2024 
 
